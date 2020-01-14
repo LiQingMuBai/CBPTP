@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img width="100%" src="https://cdn.jsdelivr.net/gh/LiQingMuBai/CBPTP/CBPTP.jpeg">
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/LiQingMuBai/CBPTP/BAAS.png">
 </p>
